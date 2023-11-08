@@ -2,8 +2,8 @@ package screen_reader;
 import java.awt.AWTException;
 import java.awt.Robot;
 
-import utilities.Mouse;
-import utilities.Typer;
+import stuff.Mouse;
+import stuff.Typer;
 
 
 public class DataWaiter {
