@@ -7,8 +7,5 @@
 		</accessrules>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/e412544/Downloads/json-20131018.jar"/>
-	<classpathentry kind="lib" path="C:/Users/e412544/Downloads/mysql-connector-java-8.0.29.jar"/>
-	<classpathentry kind="lib" path="C:/Users/e412544/Downloads/mysql-connector-java-8.0.29-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
